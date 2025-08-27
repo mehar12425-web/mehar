@@ -43,22 +43,21 @@ export const SITE_CONTENT: SiteContent = {
       ],
     },
     {
-      company: "Bankit",
-      position: "Mobile Developer",
-      startDate: "Feb 2017",
-      endDate: "May 2018",
+      company: "The Chelsea Senior Living",
+      position: "Assistant Lifestyle Manager",
+      startDate: "June 2022",
+      endDate: "Present",
       summary: [
-        "I designed and developed a mobile application using Flutter, allowing it to be deployed on both Android and iOS with a single codebase. This reduced development time by 50% and maintenance costs by 30%, facilitating a consistent user experience on both platforms.",
-        "I integrated biometric authentication and data encryption, significantly improving the security of user data. This implementation resulted in a 40% increase in user trust and a 25% reduction in unauthorized access attempts.",
+        "I planned and led recreational activities and events for over 200 senior residents, creating a lively environment that encouraged engagement and social interaction. I coordinated and oversaw meal service operations to ensure efficiency and consistency. I also collaborated with team members to design innovative programs that strengthened community involvement",
       ],
     },
     {
-      company: "Driveer",
-      position: "Frontend Developer",
-      startDate: "Jun 2015",
-      endDate: "Oct 2016",
+      company: "Surkhi Bindi",
+      position: "Co-Founder",
+      startDate: "December 2021",
+      endDate: "Present",
       summary:
-        "Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
+        "Launched and managed a jewelry business, curating international collections, analyzing sales trends, and driving a 20% customer base increase through targeted marketing and social media campaigns.",
     },
   ],
   projects: [
