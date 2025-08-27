@@ -59,7 +59,29 @@ export const SITE_CONTENT: SiteContent = {
         "Launched and managed a jewelry business, curating international collections, analyzing sales trends, and driving a 20% customer base increase through targeted marketing and social media campaigns.",
     },
   ],
- 
+  projects: [
+    {
+      name: "Spotifu Music",
+      summary: "A music streaming app that emulates Spotify's core features.",
+      linkPreview: "/",
+      linkSource: "https://github.com/immois/astro-zen",
+      image: "/spotifu.png",
+    },
+    {
+      name: "Shopp App",
+      summary: "An e-commerce platform that replicates Shopify's key features.",
+      linkPreview: "/",
+      linkSource: "https://github.com/immois/astro-zen",
+      image: "/shopify-clon.png",
+    },
+    {
+      name: "ClonTagram",
+      summary: "A social network that replicates the features of Instagram",
+      linkPreview: "/",
+      linkSource: "https://github.com/immois/astro-zen",
+      image: "/clone-ig.png",
+    },
+  ],
   about: {
     description: `
      Hi, I'm Gurmehar Arora. I am a passionate Business Analytics and Information Technology major with a strong interest in understanding how systems operate and how decisions are driven in the financial domain. I enjoy exploring different platforms and technologies, such as Java, to build a foundation for working with big data. My goal is to leverage these skills to analyze, interpret, and deliver insights that create value and support informed decision-making.
