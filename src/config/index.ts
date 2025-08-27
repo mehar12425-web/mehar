@@ -26,9 +26,9 @@ export const SITE_CONFIG: SiteConfig = {
 export const SITE_CONTENT: SiteContent = {
   hero: {
     name: "Gurmehar Arora",
-    specialty: "Software Developer",
+    specialty: "Aspiring Software Developer",
     summary:
-      "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+      "Business Analytics and Information Technology major at Rutgers University- New Brunswick",
     email: "example@email.com",
   },
   experience: [
