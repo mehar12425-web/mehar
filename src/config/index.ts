@@ -61,17 +61,13 @@ export const SITE_CONTENT: SiteContent = {
     },
   ],
   projects: [
+  
     {
       name: "Personal Website – Computer Applications for Business",
       summary: "•	Designed and built a personal website using HTML and CSS, applying responsive design principles. Incorporated styled navigation, content sections, and images to demonstrate front-end design skills and validation using Javascript.",
-      
-    },
-    {
-      name: "Shopp App",
-      summary: "An e-commerce platform that replicates Shopify's key features.",
       linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
-      image: "/shopify-clon.png",
+      linkSource: "",
+      image: "",
     },
     {
       name: "ClonTagram",
