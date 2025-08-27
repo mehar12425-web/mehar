@@ -9,7 +9,6 @@ export const SITE_CONFIG: SiteConfig = {
   siteLogo: "/IMG_6823.jpeg",
   navLinks: [
     { text: "Experience", href: "#experience" },
-    { text: "Projects", href: "#projects" },
     { text: "About", href: "#about" },
   ],
   socialLinks: [
