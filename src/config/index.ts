@@ -63,13 +63,6 @@ export const SITE_CONTENT: SiteContent = {
   projects: [
   
     {
-      name: "Personal Website – Computer Applications for Business",
-      summary: "•	Designed and built a personal website using HTML and CSS, applying responsive design principles. Incorporated styled navigation, content sections, and images to demonstrate front-end design skills and validation using Javascript.",
-      linkPreview: "/",
-      linkSource: "",
-      image: "/clone-ig.png",
-    },
-    {
       name: "ClonTagram",
       summary: "A social network that replicates the features of Instagram",
       linkPreview: "/",
