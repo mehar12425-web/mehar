@@ -67,7 +67,7 @@ export const SITE_CONTENT: SiteContent = {
       summary: "•	Designed and built a personal website using HTML and CSS, applying responsive design principles. Incorporated styled navigation, content sections, and images to demonstrate front-end design skills and validation using Javascript.",
       linkPreview: "/",
       linkSource: "",
-      image: "",
+      image: "/clone-ig.png",
     },
     {
       name: "ClonTagram",
