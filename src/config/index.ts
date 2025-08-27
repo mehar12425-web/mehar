@@ -62,11 +62,9 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
-      name: "Spotifu Music",
-      summary: "A music streaming app that emulates Spotify's core features.",
-      linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
-      image: "/spotifu.png",
+      name: "Personal Website – Computer Applications for Business",
+      summary: "•	Designed and built a personal website using HTML and CSS, applying responsive design principles. Incorporated styled navigation, content sections, and images to demonstrate front-end design skills and validation using Javascript.",
+      
     },
     {
       name: "Shopp App",
